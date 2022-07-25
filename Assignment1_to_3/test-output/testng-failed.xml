@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationTesting]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Assignment2(failed)">
+    <classes>
+      <class name="com.here.testcases.Assignment2">
+        <methods>
+          <include name="movie"/>
+        </methods>
+      </class> <!-- com.here.testcases.Assignment2 -->
+    </classes>
+  </test> <!-- Assignment2(failed) -->
+</suite> <!-- Failed suite [AutomationTesting] -->
